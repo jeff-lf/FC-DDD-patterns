@@ -1,6 +1,4 @@
-# FC-DDD-patterns
-
-Desafio FullCycle
+# Desafio FullCycle FC-DDD-patterns
 
 "Nesse desafio você deverá fazer com que a classe OrderRepository implemente totalmente os métodos definidos pelo OrderRepositoryInterface. Toda essa implementação deverá ser reproduzida através de testes.
 
